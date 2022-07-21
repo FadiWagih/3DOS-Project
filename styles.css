@@ -1,0 +1,246 @@
+.1_2 { 
+	overflow:hidden;
+}
+.e1_2 { 
+	background-color:rgba(27.000000290572643, 25.000000409781933, 30.00000011175871, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.e1_9 { 
+	background-color:rgba(27.000000290572643, 25.000000409781933, 30.00000011175871, 1);
+	width:1440px;
+	height:190px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e6_31 { 
+	background-color:rgba(27.000000290572643, 25.000000409781933, 30.00000011175871, 1);
+	width:1440px;
+	height:194px;
+	position:absolute;
+	left:0px;
+	top:830px;
+}
+.e13_47 { 
+	width:1445px;
+	height:1031px;
+	position:absolute;
+	left:-5px;
+	top:-7px;
+	background-image:url(images/pexels_lucie_liz_3165335_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e13_53 { 
+	width:214px;
+	height:203px;
+	position:absolute;
+	left:0px;
+	top:-13px;
+	border-top-left-radius:153.5px;
+	border-top-right-radius:153.5px;
+	border-bottom-left-radius:153.5px;
+	border-bottom-right-radius:153.5px;
+	background-image:url(images/gamify_logos_white_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e6_30 { 
+	width:273px;
+	height:166px;
+	position:absolute;
+	left:660px;
+	top:337px;
+	border-top-left-radius:115px;
+	border-top-right-radius:115px;
+	border-bottom-left-radius:115px;
+	border-bottom-right-radius:115px;
+	background-image:url(images/7_1607541759_653055126_lg_modland_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e6_29 { 
+	color:rgba(255, 255, 255, 1);
+	width:451px;
+	height:84px;
+	position:absolute;
+	left:26px;
+	top:487px;
+	font-family:PT Serif;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e1_10 { 
+	color:rgba(255, 255, 255, 1);
+	width:68px;
+	height:34px;
+	position:absolute;
+	left:419px;
+	top:78px;
+	font-family:PT Serif;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e1_11 { 
+	color:rgba(255, 255, 255, 1);
+	width:101px;
+	height:34px;
+	position:absolute;
+	left:610px;
+	top:78px;
+	font-family:PT Serif;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e1_12 { 
+	color:rgba(255, 255, 255, 1);
+	width:77px;
+	height:32px;
+	position:absolute;
+	left:833px;
+	top:79px;
+	font-family:PT Serif;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e1_13 { 
+	color:rgba(255, 255, 255, 1);
+	width:105px;
+	height:32px;
+	position:absolute;
+	left:1033px;
+	top:79px;
+	font-family:PT Serif;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e3_16 { 
+	transform: rotate(31.999999191997723deg);
+	color:rgba(255, 255, 255, 1);
+	width:190px;
+	height:45px;
+	position:absolute;
+	left:200.84637451171875px;
+	top:265px;
+	font-family:PT Serif;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:25;
+}
+.4_3 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e4_3 { 
+	width:524.5px;
+	height:621px;
+	position:absolute;
+	left:0px;
+	top:209px;
+}
+.e6_32 { 
+	color:rgba(255, 255, 255, 1);
+	width:165px;
+	height:42px;
+	position:absolute;
+	left:140px;
+	top:849px;
+	font-family:PT Serif;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e6_34 { 
+	color:rgba(255, 255, 255, 1);
+	width:275px;
+	height:27px;
+	position:absolute;
+	left:140px;
+	top:904px;
+	font-family:PT Serif;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e6_35 { 
+	color:rgba(255, 255, 255, 1);
+	width:266px;
+	height:27px;
+	position:absolute;
+	left:140px;
+	top:944px;
+	font-family:PT Serif;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e6_37 { 
+	width:289.6413879394531px;
+	height:166px;
+	position:absolute;
+	left:1069px;
+	top:337px;
+	border-top-left-radius:235.5px;
+	border-top-right-radius:235.5px;
+	border-bottom-left-radius:235.5px;
+	border-bottom-right-radius:235.5px;
+	background-image:url(images/logo_stray_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e7_3 { 
+	width:698px;
+	height:147px;
+	position:absolute;
+	left:661px;
+	top:593px;
+	background-image:url(images/fifa_22_logo_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e7_5 { 
+	width:32px;
+	height:32px;
+	position:absolute;
+	left:754px;
+	top:888px;
+	background-image:url(images/facebook_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e7_6 { 
+	width:32px;
+	height:32px;
+	position:absolute;
+	left:852px;
+	top:888px;
+	background-image:url(images/twitter_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+a{
+position:relative;
+    text-decoration:none;
+    text-align:center;
+    color:white;
+}
+a::after{
+    content:"";
+    width:0;
+    height:1px;
+    left:30%;
+    display:block;
+    position:absolute; 
+	background-color:violet;
+    transition:width 0.3s,left 0.2s;
+}
+a:hover::after{
+    width:100%;
+    left:0%;
+}
